@@ -1,0 +1,10 @@
+[cloudflare]
+api_key = ""
+account_email = ""
+domains = []
+
+[ydns]
+user = ""
+password = ""
+domains = []
+
